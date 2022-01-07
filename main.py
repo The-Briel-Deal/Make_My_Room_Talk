@@ -30,4 +30,4 @@ api.add_resource(HelloWorld, "/helloworld/<string:text>")
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, host="192.168.0.8")
