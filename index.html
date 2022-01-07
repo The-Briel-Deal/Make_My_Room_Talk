@@ -22,7 +22,7 @@
         document.querySelector('form.pure-form').addEventListener('submit', function(e) {
             e.preventDefault();
             var xhr = new XMLHttpRequest();
-            var text = 'https://35.143.132.13:5000/helloworld/' + nameInput.value;
+            var text = 'http://35.143.132.13:5000/helloworld/' + nameInput.value;
             xhr.open('POST', text, true);
             xhr.onload = function() {};
             xhr.send()
