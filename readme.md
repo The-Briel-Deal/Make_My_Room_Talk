@@ -5,14 +5,18 @@ I'm going to find a text to speech library in python, it looks like googles text
 
 ## STEPS:
 
-### 1. Make HTML form
+~~### 1. Make HTML form~~
 
-### 2. Figure out how to play with that string when I submit it in JS
-(I'm going to make it log it to console IK boring /:) 
+~~### 2. Figure out how to play with that string when I submit it in JS~~
+~~(I'm going to make it log it to console IK boring /:) ~~
 
-### 3. Host a Flask Rest API and figure out how to POST to the thing
+~~### 3. Host a Flask Rest API and figure out how to POST to the thing~~
 
-### 4. Make him talk (:
+~~### 4. Make him talk (:~~
 
-### 5. Fix Bugs and make it pretty and be infinitely happy that anyone can bother me when I'm coding now!!!!!!!!
+~~### 5. Fix Bugs and make it pretty and be infinitely happy that anyone can bother me when I'm coding now!!!!!!!!~~
+
+I made it!!! It's currently being hosted temporarily at 637god.win,
+I'll see how long I can leave it up without it being annoying!
+If anyone has any interest in this I'll write out how to deploy it yourself (:
 
